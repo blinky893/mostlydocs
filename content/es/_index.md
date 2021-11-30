@@ -1,7 +1,7 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "Documentation (ES)"
+linkTitle: "Documentation (ES)"
 type: "docs"
 tags: ["intro"]
 weight: 20

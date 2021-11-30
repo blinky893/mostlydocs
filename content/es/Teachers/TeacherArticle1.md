@@ -1,6 +1,6 @@
 ---
-title: "Teacher Article 1"
-linkTitle: "Article 1"
+title: "Teacher Article 1 (ES)"
+linkTitle: "Article 1 (ES)"
 weight: 1
 description: >
   A quick summary of the article contents.

@@ -1,6 +1,6 @@
 ---
-title: "Students"
-linkTitle: "Students"
+title: "Students (ES)"
+linkTitle: "Students (ES)"
 menu:
    main:
       weight: 1

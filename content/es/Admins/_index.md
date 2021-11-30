@@ -1,6 +1,6 @@
 ---
-title: "Admin"
-linkTitle: "Admin"
+title: "Admin (ES)"
+linkTitle: "Admin (ES)"
 menu:
    main:
       weight: 3

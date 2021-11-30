@@ -1,6 +1,6 @@
 ---
-title: "Student Article 3"
-linkTitle: "Article 3"
+title: "Student Article 3 (ES)"
+linkTitle: "Article 3 (ES)"
 weight: 3
 description: >
   A quick summary of the article contents.
