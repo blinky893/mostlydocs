@@ -1,7 +1,9 @@
 ---
 title: "Admin"
 linkTitle: "Admin"
-weight: 1
+menu:
+   main:
+      weight: 20
 description: >
   Here's a new section with a link in the nav bar
 ---
