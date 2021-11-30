@@ -3,9 +3,9 @@ title: "Admin"
 linkTitle: "Admin"
 menu:
    main:
-      weight: 20
+      weight: 3
 description: >
-  Here's a new section with a link in the nav bar
+  This is the Admin section
 ---
 
 {{% pageinfo %}}
@@ -13,6 +13,4 @@ This is the index page of the Admin section.
 {{% /pageinfo %}}
 
 
-# Admin
-
-## News for admins
+# Topics for Admins
