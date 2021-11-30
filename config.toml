@@ -61,6 +61,14 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 
+[languages.es]
+title = "Goldydocs (ES)"
+description = "A Docsy example site (ES)"
+languageName ="Espanol"
+# Weight used for sorting.
+weight = 2
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
